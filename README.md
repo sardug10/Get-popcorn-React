@@ -13,5 +13,5 @@ It is a personal project build on the **MERN stack**. It shows Trending Movies, 
 ## Contribution
 
 1. Download the development folder.
-2. For Frontend, open the frontend folder in a code-editor and run the command :- <br/> `npm run start`
-3. For Backend, open the backend folder in the code-editor, then open **server.js file and define all the environment variables in it.**
+2. For Frontend, open the frontend folder in a code-editor and run the command :- <br/> `npm start`
+3. For Backend, open the backend folder in the code-editor, then open **server.js file and define all the environment variables in it and finally run:-** <br/> `npm start`
