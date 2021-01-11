@@ -2,6 +2,10 @@
 
 It is a personal project build on the **MERN stack**. It shows Trending Movies, TV-shows, and Actors. You can also search for the same, add them to your favorites and even post reviews about it.
 
+Try 1[here](https://get-popcorn.herokuapp.com/trending)
+**ID:-** testUser@example.com
+**Password:-** test@12345
+
 [![get-popcorn-build](https://img.shields.io/badge/build-success-brightgreen)](https://get-popcorn.herokuapp.com/trending)
 
 [![get-popcorn-build](https://img.shields.io/badge/API-Reference-blue)](https://developers.themoviedb.org/3/getting-started/introduction)
